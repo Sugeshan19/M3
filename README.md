@@ -273,7 +273,8 @@ int main() {
 
 ## Output:
 
- 
+ ![437678811-1fe00c41-5b66-4d66-837e-fad68b8fae7a](https://github.com/user-attachments/assets/ec5273f5-81e1-40d0-820d-23fdfe7f3ae4)
+
 
 
 ## Result:
